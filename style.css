@@ -1,0 +1,58 @@
+#primeiro_espaco {
+    background-color:#fedde4;
+    width: 1215px;
+    height: 200px;
+}
+
+#segundo_espaco {
+    background-color: #fedde4;
+    width: 1215px;
+    height: 50px;
+}
+
+#terceiro_sla {
+    height: 50px;
+
+}
+
+#o_que_eu_sou {
+    text-align: center;
+}
+
+#div_nome {
+    text-align: center;
+}
+
+#sobre_mim {
+    /*text-align: right;*/
+    display: flex;
+}
+
+#lista {
+    width:600px;
+    height: 1000px;
+    text-align: left;
+    border-color: black;
+    border-style:solid;
+    display: inline;
+}
+
+.um {
+    width:600px;
+    height: 1000px;
+    border-color: black;
+    border-style:solid;
+    display: inline;
+    background-color: #fedde4;
+}
+
+#pg {
+    margin: 30px;
+}
+
+#miojo_de_tomate {
+    padding-left: 550px;
+}
+
+
+
